@@ -1,6 +1,11 @@
 div {
     position: relative;
 }
+.f {
+    float: left; 
+    width: 24.25%; 
+    margin: 0 1% 8px 0
+}
 .f img { 
     transition: 0.5s;
 }
@@ -10,13 +15,13 @@ div {
     display:'block'
 }
 .tran{
-    -webkit-transition:opacity 0.2s ease;
-    -moz-transition:opacity 0.2s ease;
-    -o-transition:opacity 0.2s ease;
+    -webkit-transition:opacity 0.5s ease;
+    -moz-transition:opacity 0.5s ease;
+    -o-transition:opacity 0.5s ease;
 }
 .centered {
     position: absolute;
-    border: 1px solid black;
+    border: 0px solid black;
     text-align: justify;
     top: 10%;
     left: 10%;
