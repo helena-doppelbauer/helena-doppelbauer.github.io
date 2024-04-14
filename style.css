@@ -1,0 +1,26 @@
+div {
+    position: relative;
+}
+.f img { 
+    transition: 0.5s;
+}
+.f img:hover { 
+    transition: 0.5s;
+    opacity:0;
+    display:'block'
+}
+.tran{
+    -webkit-transition:opacity 0.2s ease;
+    -moz-transition:opacity 0.2s ease;
+    -o-transition:opacity 0.2s ease;
+}
+.centered {
+    position: absolute;
+    border: 1px solid black;
+    text-align: justify;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+    z-index: -1;
+}
