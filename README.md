@@ -2,7 +2,7 @@
 
 # Helena Doppelbauer
 
-<div class='f'">
+<div class='f'>
     <div class='centered'>
         Let's write a very long text here!
         Let's write a very long text here!
